@@ -2,4 +2,4 @@
 
 Deplying from `prod` branch. 
 
-Serving files from `/www` directory.
+Serving files from `/docs` directory.
