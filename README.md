@@ -1,1 +1,5 @@
-# semantic-shift.github.io
+# semshift.com
+
+Deplying from `prod` branch. 
+
+Serving files from `/www` directory.
